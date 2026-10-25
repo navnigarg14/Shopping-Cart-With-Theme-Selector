@@ -43,15 +43,15 @@ Showcase the application's three themes below. Add screenshots captured from you
 
 ### 🌙 Dark Theme
 
-![Dark Theme](./screenshots/dark-theme.png)
+(./screenshots/home-dark.png) (./screenshots/cart-dark.png)
 
 ### ☀️ Light Theme
 
-![Light Theme](./screenshots/light-theme.png)
+(./screenshots/home-light.png) (./screenshots/cart-light.png)
 
 ### ⚡ Neon Theme
 
-![Neon Theme](./screenshots/neon-theme.png)
+(./screenshots/home-neon.png) (./screenshots/cart-neon.png)
 
 
 ## 🚀 Getting Started
@@ -122,7 +122,6 @@ Shopping-Cart-With-Theme-Selector/
 └── README.md
 ```
 
-*Your actual folders and filenames may differ depending on how you organized your application.*
 
 ## 🎯 What I Learned
 

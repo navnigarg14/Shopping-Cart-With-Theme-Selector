@@ -20,7 +20,7 @@ const Navbar = ({themeStyles}) => {
 
         <NavLink to="/">
           <div className='ml-5'>
-            <img src='../logo.png' className='h-14'/>
+            <img src='../logo.png' alt="" className='h-14'/>
           </div>
         </NavLink>
 

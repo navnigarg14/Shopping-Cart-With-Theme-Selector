@@ -39,19 +39,18 @@ Choose from three different themes to personalize the application's appearance.
 
 ## 📸 Screenshots
 
-Showcase the application's three themes below. Add screenshots captured from your actual application to the `screenshots` folder.
+### 🏠 Home Page
 
-### 🌙 Dark Theme
+| 🌙 Dark Theme | ☀️ Light Theme | ⚡ Neon Theme |
+|:---:|:---:|:---:|
+| ![Home Dark Theme](./screenshots/home-dark.png) | ![Home Light Theme](./screenshots/home-light.png) | ![Home Neon Theme](./screenshots/home-neon.png) |
 
-(./screenshots/home-dark.png) (./screenshots/cart-dark.png)
+### 🛒 Shopping Cart Page
 
-### ☀️ Light Theme
+| 🌙 Dark Theme | ☀️ Light Theme | ⚡ Neon Theme |
+|:---:|:---:|:---:|
+| ![Cart Dark Theme](./screenshots/cart-dark.png) | ![Cart Light Theme](./screenshots/cart-light.png) | ![Cart Neon Theme](./screenshots/cart-neon.png) |
 
-(./screenshots/home-light.png) (./screenshots/cart-light.png)
-
-### ⚡ Neon Theme
-
-(./screenshots/home-neon.png) (./screenshots/cart-neon.png)
 
 
 ## 🚀 Getting Started

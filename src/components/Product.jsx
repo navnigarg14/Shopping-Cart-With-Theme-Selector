@@ -42,7 +42,7 @@ const Product = ({post, themeStyles}) => {
         </div>
 
         {
-          cart.some((p) => p.id == post.id) ?
+          cart.some((p) => p.id === post.id) ?
           (<button
             className={`${styles.button} border-2 rounded-full font-semibold text-[12px] p-1 px-3 uppercase transition duration-300 ease-in`}
             onClick={removeFromCart}
